@@ -1,6 +1,8 @@
 # ReadMe
 
-This document provides an overview of our submission to the Groupwork Project 2 - Replication Codes.
+This document provides an overview of our submission to the Groupwork Project 2 - Replication Codes and part 2 of the assignment.
+
+Replication Codes:
 
 The innitial data preparation and loading is done in the file `GWP_2_Data_Prep`. 
 - The dependencies are installed
@@ -17,3 +19,5 @@ The analysis is done in the file `GWP_2_Replication`.
 - This file is saved as both `.pdf` and `.ipynb`
 
 The data is provided in this repository so that the `GWP_2_Data_Prep` need not be run. However the codes are provided with detailed description for our instructors' perusal.
+
+Part 2 of the GWP
